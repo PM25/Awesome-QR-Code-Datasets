@@ -1,0 +1,1 @@
+# Awesome-QR-Code-Datasets
